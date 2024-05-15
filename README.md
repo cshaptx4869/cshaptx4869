@@ -1,16 +1,18 @@
 # Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cshaptx4869&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 🎉 Welcome to my GitHub profile!
 
 I'm cshaptx4869 - a PHP developer, and Open source contributor.
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cshaptx4869&layout=compact&hide=css,html)
+![](https://github-readme-stats.vercel.app/api?username=cshaptx4869&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true)
+
+
 # My main projects:
 
-- [easyadmin](https://github.com/cshaptx4869/easyadmin) - 🚀 基于ThinkPHP6.1和layui2.7的快速开发的后台管理系统。
-- [skuTable](https://github.com/cshaptx4869/skuTable) - 🚀 基于Layui的SkuTable组件。可根据配置动态生成sku表。
-  
+- [easyadmin](https://github.com/cshaptx4869/easyadmin) - 🚀 基于ThinkPHP6.1和layui2.8的快速开发的后台管理系统。
+- [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥 基于vue3+vite5+typescript+element-plus构建的后台管理前端模板。
+
   
 # 🏆 Github Profile Trophy
 
